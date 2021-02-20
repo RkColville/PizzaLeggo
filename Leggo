@@ -1,4 +1,6 @@
-1. Decide which business to order from
-2. Decide which type of pizza to order
-3. Decide if this is for pick up or delivery
-4. Decide how to pay for your pizza
+1. Choose delivery or pickup
+2. If pickup, enter your location to locate nearest pizza place 
+3. If delivery, input your address
+4. Choose pizza
+5. Pay for pizza
+6. Provide tip for pizza if delivered?
